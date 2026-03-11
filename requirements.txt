@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+opencv-python-headless
+imageio
+imageio-ffmpeg
+ffmpeg-python
+resampy
+pydub
+numpy
+scipy
+librosa
+transformers
+diffusers
+huggingface_hub
