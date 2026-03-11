@@ -5,7 +5,7 @@ module.exports = async function handler(req, res) {
 
   if (req.method === 'OPTIONS') return res.status(200).end();
 
-  const BASE = 'https://inselacaill334-my-lipsync.hf.space';
+  const BASE = 'https://inselacaill334-lipsync-v2.hf.space';
 
   // Étape 2 : polling du résultat
   if (req.method === 'GET' && req.query.event_id) {
