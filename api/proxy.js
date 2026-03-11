@@ -10,7 +10,7 @@ module.exports = async function handler(req, res) {
 
   try {
     const response = await fetch(
-      'https://fffiloni-latentsync.hf.space/run/predict',
+      'https://inselacaill334-my-lipsync.hf.space/run/predict',
       {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
